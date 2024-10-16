@@ -17,16 +17,10 @@ A platform converter app for Android and iOS is designed to enable seamless comp
   <img src="https://github.com/user-attachments/assets/e811a036-ccd0-49c8-abb7-c48e54693135", width=21%,height=35%>
   <img src="https://github.com/user-attachments/assets/ecd166ad-9368-4c06-b404-9684be12ef7f", width=21%,height=35%>
   <img src="https://github.com/user-attachments/assets/d402c896-d15a-41a7-8e75-b4c4c1ca6a21", width=21%,height=35%>
-  
- 
-
-
-</div>
+  </div>
 
 <div align="center">
-  <video src="
-https://github.com/user-attachments/assets/781e3e09-7072-40b4-8beb-6616eea1a5e8
-">
+  <video src="https://github.com/user-attachments/assets/781e3e09-7072-40b4-8beb-6616eea1a5e8">
     
 
 
